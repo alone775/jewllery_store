@@ -1,0 +1,98 @@
+[
+  {
+    "id": "zavi-001",
+    "name": "Zircon Necklace-71 (Golden/Green)",
+    "slug": "zircon-necklace-71-golden-green",
+    "price": 699,
+    "original_price": 999,
+    "discount_percentage": 30,
+    "category": "Necklaces",
+    "image": "/images/necklace-green.jpg",
+    "in_stock": true,
+    "description": "Gold Plated Necklace Standard size. 100% same & fine quality product as shown in picture. Jewelry Care: Keep away from water, perfume & other chemicals."
+  },
+  {
+    "id": "zavi-002",
+    "name": "Classic Jhumkay (Silver)",
+    "slug": "classic-jhumkay-silver",
+    "price": 299,
+    "original_price": 500,
+    "discount_percentage": 40,
+    "category": "299 Sale",
+    "image": "/images/jhumkay.jpg",
+    "in_stock": true,
+    "description": "Traditional silver jhumkay perfect for casual and formal wear. Lightweight and hypoallergenic."
+  },
+  {
+    "id": "zavi-003",
+    "name": "Royal Solitaire Zircon Ring (Gold)",
+    "slug": "royal-solitaire-zircon-ring-gold",
+    "price": 499,
+    "original_price": 799,
+    "discount_percentage": 38,
+    "category": "Rings",
+    "image": "/images/ring-gold.jpg",
+    "in_stock": true,
+    "description": "24K Gold-Plated adjustable solitaire ring with AAA high-grade zircon crystal. Fits all finger sizes."
+  },
+  {
+    "id": "zavi-004",
+    "name": "Regal Pearl Choker Set with Studs",
+    "slug": "regal-pearl-choker-set-studs",
+    "price": 899,
+    "original_price": 1399,
+    "discount_percentage": 36,
+    "category": "Necklaces",
+    "image": "/images/choker-pearl.jpg",
+    "in_stock": true,
+    "description": "Multi-layered shell pearl choker with matching stud earrings. Ideal for shaadi events and parties."
+  },
+  {
+    "id": "zavi-005",
+    "name": "Lucky Clover Tennis Bracelet",
+    "slug": "lucky-clover-tennis-bracelet",
+    "price": 599,
+    "original_price": 899,
+    "discount_percentage": 33,
+    "category": "Bracelets",
+    "image": "/images/bracelet-clover.jpg",
+    "in_stock": true,
+    "description": "Dainty four-leaf clover motif bracelet with micro-pave zircon crystals and secure lobster clasp."
+  },
+  {
+    "id": "zavi-006",
+    "name": "Crystal Huggie Drop Earrings",
+    "slug": "crystal-huggie-drop-earrings",
+    "price": 299,
+    "original_price": 450,
+    "discount_percentage": 34,
+    "category": "299 Sale",
+    "image": "/images/earrings-drop.jpg",
+    "in_stock": true,
+    "description": "Minimalist everyday crystal huggie hoops. Super comfortable for 24/7 wear."
+  },
+  {
+    "id": "zavi-007",
+    "name": "Kundan Heritage Kada Bangles (Pair)",
+    "slug": "kundan-heritage-kada-bangles-pair",
+    "price": 799,
+    "original_price": 1199,
+    "discount_percentage": 33,
+    "category": "Bracelets",
+    "image": "/images/bangles-kundan.jpg",
+    "in_stock": true,
+    "description": "Pair of openable gold-tone Kundan bangles with meenakari detailing. Standard size 2.4 - 2.6."
+  },
+  {
+    "id": "zavi-008",
+    "name": "Dainty Butterfly Zircon Pendant",
+    "slug": "dainty-butterfly-zircon-pendant",
+    "price": 399,
+    "original_price": 650,
+    "discount_percentage": 39,
+    "category": "Necklaces",
+    "image": "/images/pendant-butterfly.jpg",
+    "in_stock": true,
+    "description": "Sweet butterfly motif pendant on an anti-tarnish fine cable chain. Length 45cm + 5cm extension."
+  }
+]
